@@ -3,6 +3,9 @@
 언리얼 엔진 Post Process Material 기반으로 카툰풍(셀 셰이딩) 스타일을 구현한 것입니다.  
 Scene Color에 '톤 분할(Toon Ramp)'을 적용하고, Depth/Normal 기반 '엣지 감지'로 아웃라인을 합성합니다.
 
+# Note
+Cell 아니고 Cel인데...
+
 ---
 
 ## Preview
